@@ -116,11 +116,6 @@ Interactive report-page tooltips were added to provide deeper contextual insight
 * Dashboard Screenshots
 * README Documentation
 
----
-
-## Dashboard Preview
-
-
 
 ---
 
