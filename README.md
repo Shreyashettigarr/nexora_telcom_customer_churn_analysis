@@ -80,7 +80,7 @@ Interactive report-page tooltips were added to provide deeper contextual insight
 ## Key Insights Identified
 
 * Overall customer attrition rate was approximately **27.12%**
-* Customers under **One Year** demonstrated comparatively higher churn behavior than long-term contract users but Churn rates accross Contract plan remained relatively close from 265 to 28%
+* Customers under **One Year** contract plan demonstrated comparatively higher churn behavior than long-term contract users but Churn rates accross all Contract plan remained relatively close from 26% to 28%
 * Customers using **No Internet services** showed the highest churn rate at approximately **28.88%**
 * Churn rates across age groups remained relatively close, highlighting the importance of normalized analysis instead of relying only on customer counts
 * Risk segmentation analysis indicated that customer churn is influenced by multiple combined business factors rather than a single variable
