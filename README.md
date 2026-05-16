@@ -119,6 +119,32 @@ Interactive report-page tooltips were added to provide deeper contextual insight
 
 ---
 
+## Dashboard Preview
+
+### Main Dashboard
+
+![Main Dashboard](screenshots/nexora_telcom_ss.png)
+
+---
+
+### Age Group Drill-through Page
+
+![Age Group Drillthrough](screenshots/nexora_age_group_dt.png)
+
+---
+
+### Tooltip Analysis
+
+![Tooltip Analysis](screenshots/nexora_tooltip.png)
+
+---
+
+### Risk Segmentation Analysis
+
+![Risk Segmentation](screenshots/risk_segment.png)
+
+
+
 ## Learning Outcome
 
 One of the most valuable learnings from this project was understanding the difference between analyzing raw customer counts and normalized churn rates. This project also helped strengthen my understanding of KPI storytelling, interactive reporting, and business-focused dashboard design.
