@@ -123,25 +123,25 @@ Interactive report-page tooltips were added to provide deeper contextual insight
 
 ### Main Dashboard
 
-![Main Dashboard](nexora_telcom_ss.png)
+![Main Dashboard](screenshots/nexora_telcom_ss.png)
 
 ---
 
 ### Age Group Drill-through Page
 
-![Age Group Drillthrough](nexora_age_group_dt.png)
+![Age Group Drillthrough](screenshots/nexora_age_group_dt.png)
 
 ---
 
 ### Tooltip Analysis
 
-![Tooltip Analysis](nexora_tooltip.png)
+![Tooltip Analysis](screenshots/nexora_tooltip.png)
 
 ---
 
 ### Risk Segmentation Analysis
 
-![Risk Segmentation](risk_segment.png)
+![Risk Segmentation](screenshots/risk_segment.png)
 
 
 
